@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="off_white">#faf9f9</color>
+    <color name="white">#ffffff</color>
+    <color name="light_blue">#a0c4ff</color>
+    <color name="grey">#89888d</color>
+    <color name="dark_grey">#46494c</color>
+    <color name="black">#000000</color>
+    <color name="lighter_black">#1c1c1e</color>
+    <color name="orange">#ffb703</color>
+    <color name="blue">#86A8E7</color>
+    <color name="light_orange">#e99e29</color>
+    <color name="samsung_white">#fafafa</color>
+    <color name="samsung_black">#171717</color>
+    <color name="ios_black">#1c1c1e</color>
+    <color name="ios_white_BG">#f7f7f7</color>
+    <color name="light_grey">#aeb0b2</color>
+</resources>
